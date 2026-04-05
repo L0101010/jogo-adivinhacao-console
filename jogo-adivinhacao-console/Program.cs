@@ -10,9 +10,7 @@ int tent = +1;
 
 while (resposta != valor1)
 {
-
-    
-
+     
     if (resposta > valor1)
     {
         Console.WriteLine($"tentativa {tent} de 5, O numero que estou pensando é menor do que isso! tente novamente.");
