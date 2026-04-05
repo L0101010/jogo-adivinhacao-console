@@ -38,11 +38,18 @@ Digite um número:
 Parabéns! Você acertou!
 ```
 
-## Melhorias futuras
-* Limite de tentativas
-* Níveis de dificuldade
-* Validação de entrada do usuário
-* Interface mais interativa
+## Melhorias implementadas
+
+- Limite de tentativas
+- Contador de tentativas
+- Sistema de vitória e derrota
+- Feedback ao jogador (maior/menor)
+
+## Atualizações recentes
+
+- Adicionado limite de 5 tentativas
+- Melhorado sistema de feedback ao jogador
+- Ajustada lógica do loop
 
 ---
 
